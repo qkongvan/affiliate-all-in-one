@@ -2129,7 +2129,7 @@ const App: React.FC = () => {
                   </div>
               </div>
               <h1 className="text-xl font-extrabold text-slate-900 uppercase tracking-tight">
-                AFFILIATE ALL-IN-ONE
+                AFFILIATE</br>ALL-IN-ONE
               </h1>
             </div>
             
